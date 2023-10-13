@@ -1,7 +1,7 @@
 theme = "terminimal"
 
 # The URL the site will be built for
-base_url = "https://rakim-0.github.io"
+base_url = "/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
