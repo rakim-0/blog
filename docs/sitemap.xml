@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>/</loc>
+    </url>
+    <url>
+        <loc>/about/</loc>
+    </url>
+    <url>
+        <loc>/archive/</loc>
+    </url>
+    <url>
+        <loc>/hello/</loc>
+        <lastmod>2023-10-08</lastmod>
+    </url>
+    <url>
+        <loc>/tags/</loc>
+    </url>
+    <url>
+        <loc>/tags/edu/</loc>
+    </url>
+    <url>
+        <loc>/tags/posts/</loc>
+    </url>
+    <url>
+        <loc>/tags/xv6/</loc>
+    </url>
+    <url>
+        <loc>/xv6/</loc>
+        <lastmod>2023-10-13</lastmod>
+    </url>
+</urlset>
