@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/</loc>
+        <loc>https://rakim-0.github.io/</loc>
     </url>
     <url>
-        <loc>/about/</loc>
+        <loc>https://rakim-0.github.io/about/</loc>
     </url>
     <url>
-        <loc>/archive/</loc>
+        <loc>https://rakim-0.github.io/archive/</loc>
     </url>
     <url>
-        <loc>/hello/</loc>
+        <loc>https://rakim-0.github.io/hello/</loc>
         <lastmod>2023-10-08</lastmod>
     </url>
     <url>
-        <loc>/tags/</loc>
+        <loc>https://rakim-0.github.io/tags/</loc>
     </url>
     <url>
-        <loc>/tags/edu/</loc>
+        <loc>https://rakim-0.github.io/tags/edu/</loc>
     </url>
     <url>
-        <loc>/tags/posts/</loc>
+        <loc>https://rakim-0.github.io/tags/posts/</loc>
     </url>
     <url>
-        <loc>/tags/xv6/</loc>
+        <loc>https://rakim-0.github.io/tags/xv6/</loc>
     </url>
     <url>
-        <loc>/xv6/</loc>
+        <loc>https://rakim-0.github.io/xv6/</loc>
         <lastmod>2023-10-13</lastmod>
     </url>
 </urlset>
