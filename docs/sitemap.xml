@@ -17,6 +17,16 @@
         <loc>https://rakim-0.github.io/tags/</loc>
     </url>
     <url>
+        <loc>https://rakim-0.github.io/tags/edu/</loc>
+    </url>
+    <url>
         <loc>https://rakim-0.github.io/tags/posts/</loc>
+    </url>
+    <url>
+        <loc>https://rakim-0.github.io/tags/xv6/</loc>
+    </url>
+    <url>
+        <loc>https://rakim-0.github.io/xv6/</loc>
+        <lastmod>2023-10-13</lastmod>
     </url>
 </urlset>
