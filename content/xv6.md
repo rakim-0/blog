@@ -4,7 +4,7 @@ date = 2023-10-13
 draft = false
 
 [taxonomies]
-tags = ["posts", "xv6", "edu"]
+tags = ["posts", "xv6", "collection", "edu"]
 +++
 
 Heyo, here's just a collection of stuff (in no particular order) that helped me out while I ~~was~~ am currently meddling with xv6 for my OS course.
