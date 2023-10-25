@@ -1,6 +1,6 @@
 +++
 title = "List of Cool Blogs!"
-date = 2023-10-08
+date = 2023-10-26
 draft = false
 
 [taxonomies]

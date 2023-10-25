@@ -2,5 +2,5 @@
 
 zola build --force -o docs
 git add .
-git commit -m "[docs] Updated site"
+git commit
 git push
