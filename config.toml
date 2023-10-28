@@ -52,4 +52,9 @@ menu_items = [
 logo_text = "Rakim's blog"
 
 # The logo link - defaults to base_url.
-logo_home_link = "/take/me/away!"
+# logo_home_link = "/"
+# Copyright text in HTML format. If specified,
+# entirely replaces default copyright and author.
+copyright_html = "© 2023 Rakim :: Theme: Terminimal by pawroman"
+
+
